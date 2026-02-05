@@ -54,6 +54,7 @@ Synthetic marketing dataset simulating real-world campaign performance:
 ## 🔄 Project Workflow
 
 Below is the end-to-end analytical workflow:
+<img src="C:\Users\whynew.in\Downloads\ChatGPT Image Feb 6, 2026, 01_29_20 AM.png" width="900">
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b8d232b6-859c-4840-a60f-63981a40192b" />
 
@@ -76,14 +77,6 @@ Below is the end-to-end analytical workflow:
 * Modeled relationship between ad spend and conversions
 * Evaluated predictive strength of each platform
 * Identified conversion efficiency patterns
-
-
-
-## 📊 Final Visualizations / Dashboard
-
-![Dashboard / Charts](ADD_DASHBOARD_IMAGE_HERE)
-
-✔ Visual storytelling to communicate statistical insights clearly.
 
 
 
