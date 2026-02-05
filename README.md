@@ -55,7 +55,7 @@ Synthetic marketing dataset simulating real-world campaign performance:
 
 Below is the end-to-end analytical workflow:
 
-<img width="1536" height="1024" alt="Image" src="C:\Users\whynew.in\Downloads\ChatGPT Image Feb 6, 2026, 01_29_20 AM.png" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a559a8eb-124c-4ebd-a160-f80c982f15ff" />
 
 ✔ Reflects a real-world analytics pipeline used in marketing performance evaluation.
 
