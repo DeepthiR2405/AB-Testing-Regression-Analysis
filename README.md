@@ -55,7 +55,7 @@ Synthetic marketing dataset simulating real-world campaign performance:
 
 Below is the end-to-end analytical workflow:
 
-![Image](https://github.com/user-attachments/assets/f1d3f465-303a-42f2-bbb2-ac34aa4cd9c5)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f1d3f465-303a-42f2-bbb2-ac34aa4cd9c5" />
 
 ✔ Reflects a real-world analytics pipeline used in marketing performance evaluation.
 
